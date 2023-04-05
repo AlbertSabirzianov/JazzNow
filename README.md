@@ -1,2 +1,3 @@
 # JazzNow
-Telegram bot for jazz gigs
+Telegram bot for jazz gigs in Moscow:
+@Jazznow_bot
