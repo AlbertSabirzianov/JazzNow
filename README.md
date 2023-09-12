@@ -1,3 +1,21 @@
 # JazzNow
-Telegram bot for jazz gigs in Moscow:
-@Jazznow_bot
+Телеграм бот, который помогает узнавать информацию о ближайших концертах, которые проходят в самых популярных джаз клубах Москвы.
+# Библиотеки
+Используются библиотеки питона python-telegram-bot, requests, beautifulsoup4
+# Установка
+скачайте проект
+"""
+git clone https://github.com/AlbertSabirzianov/JazzNow.git
+"""
+установите зависимости
+"""
+pip install req.txt
+"""
+В корне репозитория создайте файл .env, в котором пропишите следующие переменные окружения:
+""".env
+bot_token=<токен вашего бота>
+"""
+запустите бота
+"""bash
+python main.py
+"""
