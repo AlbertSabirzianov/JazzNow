@@ -4,18 +4,18 @@
 Используются библиотеки питона python-telegram-bot, requests, beautifulsoup4
 # Установка
 скачайте проект
-"""
+```
 git clone https://github.com/AlbertSabirzianov/JazzNow.git
-"""
+```
 установите зависимости
-"""
+```
 pip install req.txt
-"""
+```
 В корне репозитория создайте файл .env, в котором пропишите следующие переменные окружения:
-""".env
+```.env
 bot_token=<токен вашего бота>
-"""
+```
 запустите бота
-"""bash
+```bash
 python main.py
-"""
+```
